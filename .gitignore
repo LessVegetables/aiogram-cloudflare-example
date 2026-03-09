@@ -1,3 +1,5 @@
 .dev.vars
 src/old_entry.py
 venv
+.python-version
+requirements.txt
