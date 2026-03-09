@@ -1,5 +1,6 @@
 import typing_inspection
 import typing_extensions
+import pydantic_core
 import annotated_types
 import propcache
 import multidict
@@ -9,6 +10,7 @@ import frozenlist
 import attrs
 import aiosignal
 import aiohappyeyeballs
+# import pydantic
 import certifi
 
 import aiohttp
