@@ -18,7 +18,7 @@ import aiohttp
 
 # from urllib.parse import urlparse
 
-from aiogram import Bot
+from aiogram.client.bot import Bot
 # from workers import Response, WorkerEntrypoint
 
 # from .bot import dp
