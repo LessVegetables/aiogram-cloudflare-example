@@ -11,6 +11,8 @@ import aiosignal
 import aiohappyeyeballs
 import certifi
 
+import aiohttp
+
 
 # from urllib.parse import urlparse
 
