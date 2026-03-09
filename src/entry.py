@@ -14,11 +14,12 @@ import pydantic
 import certifi
 
 import aiohttp
+import aiogram
 
 
 # from urllib.parse import urlparse
 
-from aiogram.client.bot import Bot
+# from aiogram.client.bot import Bot
 # from workers import Response, WorkerEntrypoint
 
 # from .bot import dp
