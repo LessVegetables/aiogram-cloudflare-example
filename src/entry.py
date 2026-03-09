@@ -10,7 +10,7 @@ import frozenlist
 import attrs
 import aiosignal
 import aiohappyeyeballs
-# import pydantic
+import pydantic
 import certifi
 
 import aiohttp
