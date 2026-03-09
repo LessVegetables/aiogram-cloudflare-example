@@ -2,7 +2,7 @@
 name = "aiogram-cloudflare-worker"
 version = "0.1.0"
 description = "Telegram bot with aiogram on Cloudflare Workers"
-requires-python = "==3.12.7"
+requires-python = ">=3.12,<3.14"
 dependencies = [
     "typing-inspection==0.4.2",
     "typing-extensions==4.15.0",
