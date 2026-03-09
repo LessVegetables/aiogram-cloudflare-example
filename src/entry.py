@@ -1,3 +1,17 @@
+import typing_inspection
+import typing_extensions
+import annotated_types
+import propcache
+import multidict
+import idna
+import yarl
+import frozenlist
+import attrs
+import aiosignal
+import aiohappyeyeballs
+import certifi
+
+
 # from urllib.parse import urlparse
 
 from aiogram import Bot
